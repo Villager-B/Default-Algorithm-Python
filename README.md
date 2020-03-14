@@ -1,0 +1,2 @@
+# Default-Algorithm
+Pythonで基本的なアルゴリズムを実装するレポジトリ
