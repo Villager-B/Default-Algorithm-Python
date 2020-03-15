@@ -7,3 +7,4 @@ Pythonで基本的なアルゴリズムを実装するレポジトリ
 - Prime Number Judgment
 - Fibonacci sequence
 - LeapYear
+- Japanese Calender
