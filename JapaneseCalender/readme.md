@@ -1,4 +1,4 @@
-# Japanese Claender
+# Japanese Calender
 
 西暦->和暦へ変換する．
 - 1869-2050
