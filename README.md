@@ -1,10 +1,11 @@
-# Default-Algorithm
-Pythonで基本的なアルゴリズムを実装するレポジトリ
+# Default-Program-Algorithm
+Pythonで基本的なプログラム，アルゴリズムを実装するレポジトリ
 
 - FizzBuzz
 - Vending Machine
 - Radix Conversion
 - Prime Number Judgment
-- Fibonacci sequence
-- LeapYear
+- Fibonacci Sequence
+- Leap Year
 - Japanese Calender
+- Linear Search
