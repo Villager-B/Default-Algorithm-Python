@@ -6,3 +6,4 @@ Pythonで基本的なアルゴリズムを実装するレポジトリ
 - Radix Conversion
 - Prime Number Judgment
 - Fibonacci sequence
+- LeapYear
