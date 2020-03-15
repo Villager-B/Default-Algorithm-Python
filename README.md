@@ -5,3 +5,4 @@ Pythonで基本的なアルゴリズムを実装するレポジトリ
 - Vending Machine
 - Radix Conversion
 - Prime Number Judgment
+- Fibonacci sequence
