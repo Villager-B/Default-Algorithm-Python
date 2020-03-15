@@ -9,3 +9,4 @@ Pythonで基本的なプログラム，アルゴリズムを実装するレポ�
 - Leap Year
 - Japanese Calender
 - Linear Search
+- Binary Search
