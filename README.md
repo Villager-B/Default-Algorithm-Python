@@ -12,3 +12,6 @@ Pythonで基本的なプログラム，アルゴリズムを実装するレポ�
 - Binary Search
 - Breadth-First Search
 - Depth-First Search
+- Maze-Guard
+- Queen
+- The Tower of Hanoi
