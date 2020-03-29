@@ -5,6 +5,7 @@ def main():
 
 def diagonally_cheak(x, col):
     for i, row in enumerate(reversed(col)):
+        # print(row)
         if (x + i + 1 == row) or (x - i - 1 == row):
             return False
     return True
