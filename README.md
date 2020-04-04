@@ -21,3 +21,4 @@ Pythonで基本的なプログラム，アルゴリズムを実装するレポ�
 - Insert Sort
 - Bubble Sort
 - Heap Sort
+- Merge Sort
