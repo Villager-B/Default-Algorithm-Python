@@ -17,4 +17,5 @@ Pythonで基本的なプログラム，アルゴリズムを実装するレポ�
 - The Tower of Hanoi
 - SearchFile
 - Marbles
-- Selection Insert Sort
+- Selection Sort
+- Insert Sort
