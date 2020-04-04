@@ -20,3 +20,4 @@ Pythonで基本的なプログラム，アルゴリズムを実装するレポ�
 - Selection Sort
 - Insert Sort
 - Bubble Sort
+- Heap Sort
